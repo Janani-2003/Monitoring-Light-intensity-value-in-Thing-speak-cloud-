@@ -1,3 +1,5 @@
+## NAME : JANANI R
+## REG NO : 212221230039
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
@@ -91,9 +93,13 @@ Prototype and build IoT systems without setting up servers or developing web sof
  
 # PROGRAM:
 # CIRCUIT DIAGRAM:
-# OUTPUT:
-# RESULT:
+![image](https://github.com/user-attachments/assets/c60764a8-8e19-40b7-b3fd-ed9eecc96f6e)
 
+# OUTPUT:
+![image](https://github.com/user-attachments/assets/8af1aa17-ae26-4fd6-a1df-90dd2cf2093a)
+![image](https://github.com/user-attachments/assets/dc6c858f-a38c-433f-9488-ff8e881c3916)
+
+# RESULT:
 Thus the light intensity values are updated in the Thing speak cloud using ESP32 controller.
 
 
